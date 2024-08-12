@@ -69,11 +69,11 @@ class _ClockState extends State<Clock> {
                     fit: BoxFit.fill,
                   ),
                   const CircleAvatar(
-                    radius: 210,
+                    radius: 200,
                     backgroundColor: Colors.white,
                   ),
                   const CircleAvatar(
-                    radius: 180,
+                    radius: 190,
                     backgroundColor: Colors.amber,
                   ),
                   CircleAvatar(
